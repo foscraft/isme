@@ -9,6 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
+  font-family: chilanka;
   background-color: #eeeaea;
   color: #4e4e4e;
   font-family: chilanka;
@@ -153,6 +154,7 @@ a:hover {
 
 .title-a {
   text-decoration: none;
+  font-family: chilanka;
   font-size: 3rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -252,6 +254,7 @@ a:hover {
 .ico-circle {
   height: 100px;
   width: 100px;
+  font-family: chilanka;
   font-size: 2rem;
   font-family: chilanka;
   border-radius: 50%;
@@ -300,6 +303,7 @@ a:hover {
   height: 42px;
   background-color: #0078ff;
   opacity: 0.7;
+  font-family: chilanka;
   font-size: 1.6rem;
   font-family: chilanka;
   line-height: 1.5;
@@ -395,6 +399,7 @@ a:hover {
   -webkit-user-select: none;
   -moz-user-select: none;
   user-select: none;
+  font-family: chilanka;
   font-size: 1rem;
   border-radius: 0.3rem;
   border: 1px solid transparent;
@@ -443,6 +448,7 @@ a:hover {
 }
 #header .logo {
   font-size: 28px;
+  font-family: chilanka;
   margin: 0;
   padding: 0;
   font-weight: 600;
@@ -498,6 +504,7 @@ a:hover {
 }
 .navbar a i, .navbar a:focus i {
   font-size: 12px;
+  font-family: chilanka;
   line-height: 0;
   margin-left: 5px;
 }
@@ -539,6 +546,7 @@ a:hover {
 }
 .navbar .dropdown ul a {
   padding: 10px 20px;
+  font-family: chilanka;
   font-size: 14px;
   text-transform: none;
   color: #4e4e4e;
@@ -697,6 +705,7 @@ a:hover {
   font-weight: 600;
   font-family: chilanka;
   font-size: 3rem;
+  font-family: chilanka;
 }
 @media (min-width: 768px) {
   .hero .hero-title {
@@ -708,6 +717,7 @@ a:hover {
   font-size: 1.5rem;
   font-family: chilanka;
   font-weight: 600;
+  font-family: chilanka;
 }
 @media (min-width: 768px) {
   .hero .hero-subtitle {
@@ -1147,6 +1157,7 @@ a:hover {
   display: inline-block;
   text-transform: uppercase;
   font-size: 0.7rem;
+  font-family: chilanka;
   letter-spacing: 0.1px;
   margin-bottom: 0;
 }
@@ -1192,6 +1203,7 @@ a:hover {
 @media (min-width: 768px) {
   .blog-wrapper .article-title {
     font-size: 1.9rem;
+    font-family: chilanka;
   }
 }
 .blog-wrapper .post-meta {
@@ -1215,6 +1227,7 @@ a:hover {
   border-left: 4px solid #0078ff;
   padding: 18px;
   font-style: italic;
+  font-family: chilanka;
 }
 
 /*------/ Comments /------*/
@@ -1235,6 +1248,7 @@ a:hover {
 @media (min-width: 768px) {
   .box-comments .list-comments .comment-author {
     font-size: 1.5rem;
+    font-family: chilanka;
   }
 }
 .box-comments .list-comments .comment-details {
@@ -1248,6 +1262,7 @@ a:hover {
 .box-comments .list-comments span {
   color: #1e1e1e;
   font-style: italic;
+  font-family: chilanka;
 }
 .box-comments .comment-children {
   margin-left: 40px;
@@ -1257,6 +1272,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
+  font-family: chilanka;
   border-left: 5px solid #0078ff;
   padding-left: 15px;
   text-transform: uppercase;
