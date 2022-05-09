@@ -11,6 +11,7 @@
 body {
   background-color: #eeeaea;
   color: #4e4e4e;
+  font-family: chilanka;
 }
 
 h1,
@@ -62,12 +63,15 @@ a:hover {
 
 .display-5 {
   font-size: 2.5rem;
+  font-family: chilanka;
   font-weight: 300;
+  font-family: chilanka;
   line-height: 1.1;
 }
 
 .display-6 {
   font-size: 2rem;
+  font-family: chilanka;
   font-weight: 300;
   line-height: 1.1;
 }
@@ -139,6 +143,7 @@ a:hover {
   font-weight: 600;
   color: #1e1e1e;
   font-size: 1.1rem;
+  font-family: chilanka;
 }
 
 /*--/ Title A /--*/
@@ -173,6 +178,7 @@ a:hover {
 .title-left {
   font-size: 2rem;
   position: relative;
+  font-family: chilanka;
 }
 .title-left:before {
   content: "";
@@ -213,6 +219,7 @@ a:hover {
   height: 40px;
   width: 40px;
   font-size: 1.2rem;
+  font-family: chilanka;
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
@@ -246,6 +253,7 @@ a:hover {
   height: 100px;
   width: 100px;
   font-size: 2rem;
+  font-family: chilanka;
   border-radius: 50%;
   line-height: 1.55;
   margin: 0 auto;
@@ -293,6 +301,7 @@ a:hover {
   background-color: #0078ff;
   opacity: 0.7;
   font-size: 1.6rem;
+  font-family: chilanka;
   line-height: 1.5;
   text-align: center;
   color: #fff;
@@ -571,6 +580,7 @@ a:hover {
 .mobile-nav-toggle {
   color: #fff;
   font-size: 28px;
+  font-family: chilanka;
   cursor: pointer;
   display: none;
   line-height: 0;
@@ -623,6 +633,7 @@ a:hover {
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
+  font-family: chilanka;
   color: #4e4e4e;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
@@ -650,6 +661,7 @@ a:hover {
 }
 .navbar-mobile .dropdown ul a i {
   font-size: 12px;
+  font-family: chilanka;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
   color: #0078ff;
@@ -683,20 +695,24 @@ a:hover {
 .hero .hero-title {
   color: #fff;
   font-weight: 600;
+  font-family: chilanka;
   font-size: 3rem;
 }
 @media (min-width: 768px) {
   .hero .hero-title {
     font-size: 4.5rem;
+    font-family: chilanka;
   }
 }
 .hero .hero-subtitle {
   font-size: 1.5rem;
+  font-family: chilanka;
   font-weight: 600;
 }
 @media (min-width: 768px) {
   .hero .hero-subtitle {
     font-size: 2.5rem;
+    font-family: chilanka;
   }
 }
 .hero .text-slider-items {
@@ -712,10 +728,12 @@ a:hover {
 .hero-single .hero-title {
   text-transform: uppercase;
   font-size: 3rem;
+  font-family: chilanka;
 }
 @media (min-width: 768px) {
   .hero-single .hero-title {
     font-size: 3.5rem;
+    font-family: chilanka;
   }
 }
 .hero-single .breadcrumb {
@@ -795,9 +813,11 @@ a:hover {
 .service-box .ico-circle i {
   line-height: 0;
   font-size: 40px;
+  font-family: chilanka;
 }
 .service-box .s-title {
   font-size: 1.4rem;
+  font-family: chilanka;
   text-transform: uppercase;
   text-align: center;
   padding: 0.4rem 0;
@@ -1021,6 +1041,7 @@ a:hover {
   text-align: center;
   padding: 15px;
   font-weight: 600;
+  font-family: chilanka;
 }
 .php-email-form .sent-message {
   display: none;
@@ -1029,6 +1050,7 @@ a:hover {
   text-align: center;
   padding: 15px;
   font-weight: 600;
+  font-family: chilanka;
 }
 .php-email-form .loading {
   display: none;
@@ -1052,6 +1074,7 @@ a:hover {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
+  font-family: chilanka;
 }
 .php-email-form input:focus, .php-email-form textarea:focus {
   border-color: #0078ff;
